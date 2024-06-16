@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+.background{
+    background-color: #0a192f
+}
+.shubh{
+    color: #7885b0
+}
+.color{
+    color: #c2c6d0
+}
+@tailwind utilities;
